@@ -57,6 +57,13 @@
 			<version>3.0.0</version>
 			<scope>test</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.avides.springboot.testcontainer/springboot-testcontainer-common -->
+		<dependency>
+			<groupId>com.avides.springboot.testcontainer</groupId>
+			<artifactId>springboot-testcontainer-common</artifactId>
+			<version>0.1.0-RC15</version>
+		</dependency>
+
 
 
 	</dependencies>
